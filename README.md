@@ -1,4 +1,4 @@
-# couch_2_coder
+# Couch-2-Coder
 Web Design Project
 Jul 2024 - Aug 2024
 
